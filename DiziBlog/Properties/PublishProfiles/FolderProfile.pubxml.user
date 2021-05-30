@@ -1,0 +1,560 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Güney\Desktop\New folder (2)</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Admin.Master">
+      <publishTime>02/19/2021 16:02:46</publishTime>
+    </File>
+    <File Include="AdminAnaSayfa.aspx">
+      <publishTime>02/18/2021 15:32:58</publishTime>
+    </File>
+    <File Include="AdminHakkımızda.aspx">
+      <publishTime>02/19/2021 15:45:22</publishTime>
+    </File>
+    <File Include="AnaSayfa.aspx">
+      <publishTime>02/19/2021 15:22:19</publishTime>
+    </File>
+    <File Include="bin/DiziBlog.dll">
+      <publishTime>02/19/2021 16:16:16</publishTime>
+    </File>
+    <File Include="bin/DiziBlog.pdb">
+      <publishTime>02/19/2021 16:16:16</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>10/23/2017 13:15:18</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>10/23/2017 13:15:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/05/2018 16:10:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>08/08/2018 12:18:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>08/08/2018 12:18:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>08/08/2018 12:09:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>12/05/2017 09:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>12/05/2017 09:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>11/05/2016 18:55:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>11/05/2016 18:55:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/16/2018 03:29:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>11/05/2016 18:55:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>11/05/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>11/05/2016 18:55:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>11/05/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Globalization.Calendars.dll">
+      <publishTime>11/05/2016 18:56:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.ZipFile.dll">
+      <publishTime>11/05/2016 18:56:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Http.dll">
+      <publishTime>11/05/2016 18:56:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Sockets.dll">
+      <publishTime>11/05/2016 18:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/16/2018 03:29:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>11/05/2016 18:57:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>11/05/2016 18:57:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>11/05/2016 18:57:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>11/05/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>11/05/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>11/05/2016 18:57:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>11/05/2016 18:57:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>11/05/2016 18:57:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>11/05/2016 18:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>11/05/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>11/05/2016 18:57:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>11/05/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>08/08/2018 12:18:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>08/08/2018 12:09:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>08/08/2018 12:18:16</publishTime>
+    </File>
+    <File Include="BlogGüncelle.aspx">
+      <publishTime>02/18/2021 15:58:57</publishTime>
+    </File>
+    <File Include="BlogSil.aspx">
+      <publishTime>02/18/2021 14:39:22</publishTime>
+    </File>
+    <File Include="Blogİçerik.aspx">
+      <publishTime>02/17/2021 17:57:50</publishTime>
+    </File>
+    <File Include="Hakkımda.aspx">
+      <publishTime>02/18/2021 08:52:35</publishTime>
+    </File>
+    <File Include="HakkımdaGüncelle.aspx">
+      <publishTime>02/19/2021 15:51:50</publishTime>
+    </File>
+    <File Include="KategoriKısıt.aspx">
+      <publishTime>02/19/2021 15:21:56</publishTime>
+    </File>
+    <File Include="Kullanıcı.Master">
+      <publishTime>02/18/2021 09:03:29</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>02/19/2021 13:00:08</publishTime>
+    </File>
+    <File Include="MesajListesi.aspx">
+      <publishTime>02/19/2021 15:31:32</publishTime>
+    </File>
+    <File Include="MesajSil.aspx">
+      <publishTime>02/19/2021 15:27:39</publishTime>
+    </File>
+    <File Include="Model1.edmx.diagram">
+      <publishTime>02/19/2021 12:52:26</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/19/2021 16:16:16</publishTime>
+    </File>
+    <File Include="web/about.html">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web/contact.html">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web/css/bootstrap.css">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web/css/style.css">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web/images/avatar.png">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web/images/food.jpg">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web/images/icon3.png">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web/images/logo.jpg">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web/images/man.jpg">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web/images/more.png">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web/images/post1.jpg">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web/images/post2.jpg">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web/images/post3.jpg">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web/images/search.png">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web/index.html">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web/js/easing.js">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web/js/jquery.min.js">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web/js/move-top.js">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web/single.html">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web/w3layouts-License.txt">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web/Yeni Metin Belgesi.txt">
+      <publishTime>02/17/2021 09:21:29</publishTime>
+    </File>
+    <File Include="web2/css/style.css">
+      <publishTime>02/19/2021 12:22:15</publishTime>
+    </File>
+    <File Include="web2/images/b1.jpg">
+      <publishTime>02/19/2021 12:22:15</publishTime>
+    </File>
+    <File Include="web2/index.html">
+      <publishTime>02/19/2021 12:22:15</publishTime>
+    </File>
+    <File Include="web3/404.html">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/blank.html">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/buttons.html">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/calendar.html">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/charts.html">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/css/basictable.css">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/css/bootstrap.css">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/css/circles.css">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/css/component.css">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/css/export.css">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/css/flipclock.css">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/css/font-awesome.css">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/css/jQuery-plugin-progressbar1.css">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/css/monthly.css">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/css/style.css">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/css/style_grid.css">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/css/table-style.css">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/faq.html">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/fonts/fontawesome-webfont.eot">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/fonts/fontawesome-webfont.svg">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/fonts/fontawesome-webfont.ttf">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/fonts/fontawesome-webfont.woff">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/fonts/fontawesome-webfont.woff2">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/fonts/FontAwesome.otf">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/grids.html">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/icons.html">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/images/a1.jpg">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/images/a2.jpg">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/images/a3.jpg">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/images/a4.jpg">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/images/admin.jpg">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/images/bottom.jpg">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/images/overlay.png">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/images/pic.jpg">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/images/pic1.jpg">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/images/profile.jpg">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/images/profile_bg.jpg">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/images/progress.jpg">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/images/Thumbs.db">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/index.html">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/input.html">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/amcharts.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/bars.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/bootstrap-3.1.1.min.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/Chart.min.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/circles.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/classie.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/contact_me.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/export.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/flipclock.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/gauge.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/gnmenu.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/jqBootstrapValidation.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/jquery-2.1.4.min.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/jQuery-plugin-progressbar.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/jquery.basictable.min.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/jquery.nicescroll.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/light.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/modernizr.custom.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/monthly.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/pie.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/prettymaps.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/radar.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/screenfull.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/scripts.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/serial.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/skycons.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/valida.2.1.6.min.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/validator.min.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/js/xy.js">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/main-page.html">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/maps.html">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/signin.html">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/signup.html">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/table.html">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/typo.html">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/validation.html">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="web3/w3layouts-License.txt">
+      <publishTime>02/18/2021 19:52:38</publishTime>
+    </File>
+    <File Include="YeniBlog.aspx">
+      <publishTime>02/18/2021 14:23:57</publishTime>
+    </File>
+    <File Include="YorumListesi.aspx">
+      <publishTime>02/18/2021 17:44:16</publishTime>
+    </File>
+    <File Include="YorumSil.aspx">
+      <publishTime>02/18/2021 17:45:28</publishTime>
+    </File>
+    <File Include="İletişim.aspx">
+      <publishTime>02/18/2021 10:20:49</publishTime>
+    </File>
+    <File Include="İstatistikler.aspx">
+      <publishTime>02/19/2021 09:55:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
